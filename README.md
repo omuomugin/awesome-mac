@@ -428,6 +428,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Sparkle](https://sparkleapp.com/) - Pro visual web design.
 * [Tayasui Sketches](http://www.tayasui.com/sketches/) - Professional drawing software.
 * [Vectr](https://vectr.com/) - Free graphics editor used to create vector graphics easily and intuitively. ![Freeware][Freeware Icon]
+* [Eagle](https://eagle.cool/) - Eagle help to collect, search and organize your image files in a logical way and all in one place. 
 
 #### Prototyping and Mind-Mapping Tools
 
